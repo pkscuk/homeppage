@@ -1,7 +1,6 @@
 .homepageupdermenubar {
-  text-align: center;
-}
-
-.homepageupdermenubar {
-  display: inline-block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
 }
